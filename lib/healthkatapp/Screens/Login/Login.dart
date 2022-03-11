@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/healthkatapp/Components//PasswordTextField.dart';
-import 'package:flutterapp/healthkatapp/Components/EmailTextField.dart';
-import 'package:flutterapp/healthkatapp/Components/LoginBtn.dart';
+import 'package:flutterapp/healthkatapp/Components/Login/PasswordTextField.dart';
+import 'package:flutterapp/healthkatapp/Components/Login/EmailTextField.dart';
+import 'package:flutterapp/healthkatapp/Components/Login/LoginBtn.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
 
 /* Frame Login Page
