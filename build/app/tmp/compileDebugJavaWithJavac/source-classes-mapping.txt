@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+gr/ntua/healthkat/BuildConfig.java
+ gr.ntua.healthkat.BuildConfig

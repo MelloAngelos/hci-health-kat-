@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498395364518",
+    "project_id": "health-kat",
+    "storage_bucket": "health-kat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498395364518:android:54395c40d44136662e8867",
+        "android_client_info": {
+          "package_name": "gr.ntua.healthkat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498395364518-5fus7mj8ut5tqh7uf07jvn91c7f55lnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-BOsEW21GV0Ncj7fvvU0EmYdwGC9BYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498395364518-5fus7mj8ut5tqh7uf07jvn91c7f55lnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

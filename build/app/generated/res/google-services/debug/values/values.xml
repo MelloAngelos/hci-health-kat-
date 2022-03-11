@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">498395364518-5fus7mj8ut5tqh7uf07jvn91c7f55lnv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">498395364518</string>
+    <string name="google_api_key" translatable="false">AIzaSyBY-BOsEW21GV0Ncj7fvvU0EmYdwGC9BYY</string>
+    <string name="google_app_id" translatable="false">1:498395364518:android:54395c40d44136662e8867</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBY-BOsEW21GV0Ncj7fvvU0EmYdwGC9BYY</string>
+    <string name="google_storage_bucket" translatable="false">health-kat.appspot.com</string>
+    <string name="project_id" translatable="false">health-kat</string>
+</resources>
