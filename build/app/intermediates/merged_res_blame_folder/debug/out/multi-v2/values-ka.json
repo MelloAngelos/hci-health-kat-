@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\marin\\HealthKat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "C:\\Users\\marin\\Desktop\\hci-health-kat-\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\marin\\.gradle\\caches\\transforms-2\\files-2.1\\cfb0333095d75ed2b44b21dd5b046ecf\\jetified-firebase-messaging-23.0.0\\res\\values-ka\\values.xml",

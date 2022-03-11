@@ -27,7 +27,19 @@ flutter:
           asset: "fonts/Mulish-700.ttf"
           style: "normal"
           weight: 700
-    - 
+    -
+      family: "ArianaVioleta"
+      fonts:
+        - asset: "fonts/ArianaVioleta-dz2K.ttf"
+          style: "normal"
+          weight: 700
+    -
+      family: "WinterSong"
+      fonts:
+        - asset: "fonts/WinterSong-owRGB.ttf"
+          style: "normal"
+          weight: 700
+    -
       family: "Roboto"
       fonts: 
         - 
